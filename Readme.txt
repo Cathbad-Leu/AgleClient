@@ -1,4 +1,5 @@
 ############################### AGLE  ##################################
+This is a very old project, uùit used Gl4Java library (still exitsting?)
 
 Agle means ANOTHER GAME LIBRARY and ENVIRONMENT
 I've developed it for learning purpose, I wanted an
